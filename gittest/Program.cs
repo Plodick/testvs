@@ -13,6 +13,7 @@ namespace gittest
             Console.Write("smthbigg");
             int i = 0;
             i++;
+            i--;
         }
     }
 }
