@@ -10,7 +10,9 @@ namespace gittest
     {
         static void Main(string[] args)
         {
-            Console.Write("smth");
+            Console.Write("smthbigg");
+            var i;
+            i++;
         }
     }
 }
