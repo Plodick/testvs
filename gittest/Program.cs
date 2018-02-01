@@ -11,7 +11,7 @@ namespace gittest
         static void Main(string[] args)
         {
             Console.Write("smthbigg");
-            var i;
+            int i = 0;
             i++;
         }
     }
